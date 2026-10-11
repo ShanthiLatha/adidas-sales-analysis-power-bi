@@ -1,0 +1,40 @@
+# Adidas Sales Analysis Dashboard | Power BI
+
+## Project Overview
+This project focuses on analyzing Adidas sales data using Power BI to understand sales performance, profit, product trends, and regional performance.
+
+## Tools Used
+- Microsoft Power BI
+- Microsoft Excel
+
+## Project Objectives
+- Analyze total sales and profit.
+- Identify top-performing products.
+- Compare sales across regions and retailers.
+- Understand sales trends over time.
+- Create an interactive dashboard for better decision-making.
+
+## Data Analysis Process
+1. Reviewed and prepared the dataset.
+2. Cleaned the data and checked data types.
+3. Created visualizations and charts in Power BI.
+4. Designed an interactive dashboard.
+5. Analyzed sales and business performance.
+
+## Key Insights
+- Analyzed overall sales and profit performance.
+- Compared product and regional sales.
+- Identified sales trends and top-performing categories.
+
+*Note: Update these insights based on the actual results in your dashboard.*
+
+## Files Included
+- `Adidas_Sales_Dashboard.pbix` — Power BI dashboard file.
+- `Adidas_Sales_Data.xlsx` — Excel dataset, if included.
+- `dashboard_screenshot.png` — Dashboard preview, if included.
+
+## Skills Demonstrated
+Power BI | Excel | Data Cleaning | Data Visualization | Business Data Analysis
+
+## Author
+Data Analytics Portfolio Project
